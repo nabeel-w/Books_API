@@ -31,7 +31,7 @@ Before running the API, make sure you have the following prerequisites:
 2. Install the dependencies:
 
    ```bash
-   cd book-api
+   cd Book_API
    npm install
    ```
 
